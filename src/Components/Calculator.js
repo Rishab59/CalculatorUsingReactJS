@@ -1,8 +1,3 @@
-/*
- * Developer's Name : Rishab . H 
- */
-
-
 import React, { useState } from "react" ;
 import { Container, Screen, Previous, Current, Button } from "../style/Main" ;
 
